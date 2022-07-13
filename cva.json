@@ -1,0 +1,17 @@
+{
+    "first_name": "fredrick",
+    "last_name": "sikoswe",
+    "phone_namber": "+260979461455",
+    "email":"fredricksikoswe@gmail.com",
+
+    "education":[
+        {
+            "school":"kafue",
+            "duration":"2000-2014",
+            "qualification":"masters"
+        }
+    ],
+    "skill": [{"skill_name":"python",
+        "rate": 5}]
+
+}   
