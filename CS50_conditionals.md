@@ -1,6 +1,6 @@
 # CS50 conditionals
 
-Conditional statements are expressions that allows the programer to make ddecitions and take different forks in the road, depending on the vaues of variables or user input.
+Conditional statements are expressions that allows the programer to make ddecitions and take different angle in the road, depending on the vaues of variables or user input.
 -Conditional statements works with mathematical symbols that plays a role of asking questions.
 Symbols like; 
 <  greater than symbol
@@ -88,6 +88,75 @@ if a > 0 and b > 0 and c > 0:
      print("the numbers are graeter than 0")
 else:
      print("at lest one number is not greater than 0")
+
+# Modulo
+
+-In mathematics a modulo or modulas, mod in python is the remender after dividing two numbers. The term modulo is often used to assert that two distinct mathematical objects that can be regarded as equivalent if their difference is accounted for by an additional factor.
+-In python modulus symbol is is represented as the percentage (%) symbol. Through this, it as called the remender operator. 
+                Example of a modulo we can say:
+
+        15 mod 12 = 3    meaning our modulo is 3
+        15 % 12 == 3
+
+                Example2
+
+x = int(input("What's a? "))
+
+if a % 4 == 0:
+    print("Even")
+else:
+    print("Odd")
+You can type in any number 1 or greater than 1 to see if it is an even or odd number.
+
+# Creating Our Own Parity Function
+
+-We can create our own function to check whether x is a member of A or B. We can whrite our program follows:
+
+def main():
+    A = ("v, w, x, y, z")
+    B = ("v, y, z")
+    if x is a member of A:
+        print("member")
+    else:
+        print("not a member")
+
+# Pythonic
+
+In programming, there are types of programming that are called “Pythonic” in nature. That is, there are ways to program that are sometimes only seen in Python programming. Consider the following revision to our program:
+
+    def main():
+    A = int(input("v, w, x, y, z"))
+    B = int(inptut("v, y, z"))
+    if x is a member of A:
+        print("member")
+    else:
+        print("not a member")    
+
+
+def is a member:
+    return True if n % 2 == 0 else False
+
+main()
+Notice that this output statement of our program is almost like a sentence in English. This is a matchless way of coding only seen in Python.
+
+We can further revise our code and make it more and more readable:
+
+def main():
+    A = int(input("v, w, x, y, z"))
+    B = int(inptut("v, y, z"))
+    if x is a member of A:
+        print("member")
+    else:
+        print("not a member")
+
+def is a member:
+    return n % 2 == 0
+
+main()
+The program will apraise what is happening within the n % 2 == 0 as either true or false and simply return that to the main function.#
+
+          
+      
 
 
 
