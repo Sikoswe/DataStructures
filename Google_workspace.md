@@ -2,7 +2,7 @@
 
 Google workspace is a latest (newly) andvanced of G suite which create a room of accomodating and have access to all apps which Google have to offer. It brings all google communication platforms under its smart and atractive colourful umbrell. Meaning you can effectvly get more work done within one window than having them disorganised. Gooble workspace includes business email, devio conferencing also cloud storage. Under Google workespace we have google servises like; Gmail, Calendar, Drive, sheets, Docs, Forms, slides,forms etc. All these apps allows you to transmit and work together with your teemates within google space.Google workspace is a storage of many business servises, you can use it to hundle over your business and acheive your tasks like email meetings, spreadsheets and more.
 
-# Google workspace apps
+# Google workspace apps and their work
 
 - Gmail is an email app where you can receive all your emails (mesages) and give a reply in text form to them. Setting up an email youcan use your own name eg. i write fredrick sikoswe, then it will arrange the email eg, fredrcksikoswe33@gmail.com. 
 - Calendar plays a role of agenda, you can have multiple calendars on this app and choose which one you want to shere with your fellow or even with the full organisation at large.
